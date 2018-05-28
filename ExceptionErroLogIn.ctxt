@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ExceptionErroLogIn
+comment0.text=\r\n\ Exception\ a\ ser\ utilizada\ em\ varias\ situa\u00E7oes\ de\ erros\ no\ log\ in\r\n\r\n\ \r\n
+comment1.params=erro
+comment1.target=ExceptionErroLogIn(java.lang.String)
+comment1.text=\r\n\ Constructor\ da\ classe\ ExceptionErroLogIn\r\n
+numComments=2

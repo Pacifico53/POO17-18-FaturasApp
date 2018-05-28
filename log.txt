@@ -1,0 +1,374 @@
+
+======================>LOG<======================
+
+----Contribuinte Individual----
+
+NIF = 1
+Nome = nome1
+Morada = morada1
+E-Mail = mail1
+Password = pass1
+Numero de dependentes = 2
+Numeros Fiscais do agregado familiar = [2, 3]
+Coeficiente Fiscal = 0.12
+Codigos das actividades economicas = [0, 5, 4]
+
+----Contribuinte Individual----
+
+NIF = 2
+Nome = nome2
+Morada = morada2
+E-Mail = mail2
+Password = pass2
+Numero de dependentes = 2
+Numeros Fiscais do agregado familiar = [1, 3]
+Coeficiente Fiscal = 0.11
+Codigos das actividades economicas = [3, 1]
+
+----Contribuinte Individual----
+
+NIF = 3
+Nome = nome3
+Morada = morada3
+E-Mail = mail3
+Password = pass3
+Numero de dependentes = 2
+Numeros Fiscais do agregado familiar = [1, 2]
+Coeficiente Fiscal = 0.15
+Codigos das actividades economicas = [1, 2, 3]
+
+----Contribuinte Individual----
+
+NIF = 4
+Nome = nome4
+Morada = morada4
+E-Mail = mail4
+Password = pass4
+Numero de dependentes = 0
+Numeros Fiscais do agregado familiar = []
+Coeficiente Fiscal = 0.14
+Codigos das actividades economicas = [2, 4]
+
+----Contribuinte Individual----
+
+NIF = 5
+Nome = nome5
+Morada = morada5
+E-Mail = mail5
+Password = pass5
+Numero de dependentes = 0
+Numeros Fiscais do agregado familiar = []
+Coeficiente Fiscal = 0.2
+Codigos das actividades economicas = [2, 6, 4]
+
+----Contribuinte Individual----
+
+NIF = 101
+Nome = nomeInd101
+Morada = moradaInd101
+E-Mail = mailInd101
+Password = pass101
+Numero de dependentes = 1
+Numeros Fiscais do agregado familiar = [102]
+Coeficiente Fiscal = 0.25
+Codigos das actividades economicas = [2, 5]
+
+----Contribuinte Individual----
+
+NIF = 6
+Nome = nome6
+Morada = morada6
+E-Mail = 6
+Password = pass6
+Numero de dependentes = 0
+Numeros Fiscais do agregado familiar = []
+Coeficiente Fiscal = 0.12
+Codigos das actividades economicas = [3, 4]
+
+----Contribuinte Individual----
+
+NIF = 102
+Nome = nomeInd102
+Morada = moradaInd102
+E-Mail = mailInd102
+Password = pass102
+Numero de dependentes = 1
+Numeros Fiscais do agregado familiar = [101]
+Coeficiente Fiscal = 0.12
+Codigos das actividades economicas = [5, 8]
+
+----Contribuinte Individual----
+
+NIF = 7
+Nome = nome7
+Morada = morada7
+E-Mail = mail7
+Password = pass7
+Numero de dependentes = 1
+Numeros Fiscais do agregado familiar = [8]
+Coeficiente Fiscal = 0.12
+Codigos das actividades economicas = [3, 5]
+
+----Contribuinte Individual----
+
+NIF = 103
+Nome = nome103
+Morada = morada103
+E-Mail = mail103
+Password = pass103
+Numero de dependentes = 1
+Numeros Fiscais do agregado familiar = [104]
+Coeficiente Fiscal = 0.14
+Codigos das actividades economicas = [3, 5]
+
+----Contribuinte Individual----
+
+NIF = 8
+Nome = nome8
+Morada = morada8
+E-Mail = mail8
+Password = pass8
+Numero de dependentes = 1
+Numeros Fiscais do agregado familiar = [7]
+Coeficiente Fiscal = 0.17
+Codigos das actividades economicas = [1, 2, 4]
+
+----Contribuinte Individual----
+
+NIF = 104
+Nome = nome104
+Morada = morada104
+E-Mail = mail104
+Password = pass104
+Numero de dependentes = 1
+Numeros Fiscais do agregado familiar = [103]
+Coeficiente Fiscal = 0.15
+Codigos das actividades economicas = [3, 6]
+
+----Contribuinte Individual----
+
+NIF = 9
+Nome = nome9
+Morada = morada9
+E-Mail = mail9
+Password = pass9
+Numero de dependentes = 1
+Numeros Fiscais do agregado familiar = [10]
+Coeficiente Fiscal = 0.11
+Codigos das actividades economicas = [1, 2]
+
+----Contribuinte Individual----
+
+NIF = 10
+Nome = nome10
+Morada = morada10
+E-Mail = mail10
+Password = pass10
+Numero de dependentes = 1
+Numeros Fiscais do agregado familiar = [9]
+Coeficiente Fiscal = 0.15
+Codigos das actividades economicas = [5, 7, 6]
+
+----Contribuinte Individual----
+
+NIF = 99999
+Nome = ADMIN
+Morada = ADRESSADMIN
+E-Mail = MAILADMIN
+Password = passadmin
+Numero de dependentes = 0
+Numeros Fiscais do agregado familiar = []
+Coeficiente Fiscal = 0.0
+Codigos das actividades economicas = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+----Empresa----
+
+NIF = 33
+Nome = nome33
+Morada = morada33
+E-Mail = mail33
+Password = pass33
+Actividades Economicas = [SAUDE, SERVIÇOS_BANCARIOS]
+Fator de Deduçao = 0.13
+
+----Empresa----
+
+NIF = 22
+Nome = nome22
+Morada = morada22
+E-Mail = mail22
+Password = pass22
+Actividades Economicas = [REPARAÇAO_VEICULOS]
+Fator de Deduçao = 1.12
+
+----Empresa----
+
+NIF = 11
+Nome = nome11
+Morada = morada11
+E-Mail = mail11
+Password = pass11
+Actividades Economicas = [TRANSPORTES, CABELEIREIROS, ELECTRICIDADE, EDUCAÇAO, GAS, SAUDE, AGUA, SERVIÇOS_BANCARIOS]
+Fator de Deduçao = 0.14
+
+----Despesa----
+
+NIF Emitente = 22
+Designacao do Emitente = Carros
+Data da Despesa = Fri May 25 17:46:44 WEST 2018
+NIF Cliente = 1
+Descricao da Despesa = motor
+Natureza da Despesa = REPARAÇAO_VEICULOS
+Valor da Despesa = 134.0
+
+----Despesa----
+
+NIF Emitente = 22
+Designacao do Emitente = Carros
+Data da Despesa = Fri May 25 17:47:10 WEST 2018
+NIF Cliente = 3
+Descricao da Despesa = tuboescape
+Natureza da Despesa = REPARAÇAO_VEICULOS
+Valor da Despesa = 76.0
+
+----Despesa----
+
+NIF Emitente = 22
+Designacao do Emitente = Carros
+Data da Despesa = Fri May 25 17:47:28 WEST 2018
+NIF Cliente = 2
+Descricao da Despesa = vidro
+Natureza da Despesa = REPARAÇAO_VEICULOS
+Valor da Despesa = 14.0
+
+----Despesa----
+
+NIF Emitente = 11
+Designacao do Emitente = medicamento
+Data da Despesa = Fri May 25 17:48:24 WEST 2018
+NIF Cliente = 1
+Descricao da Despesa = brufen
+Natureza da Despesa = SAUDE
+Valor da Despesa = 15.0
+
+----Despesa----
+
+NIF Emitente = 11
+Designacao do Emitente = cabelo
+Data da Despesa = Fri May 25 17:48:41 WEST 2018
+NIF Cliente = 1
+Descricao da Despesa = corte
+Natureza da Despesa = CABELEIREIROS
+Valor da Despesa = 12.0
+
+----Despesa----
+
+NIF Emitente = 11
+Designacao do Emitente = eletricidade
+Data da Despesa = Fri May 25 17:49:03 WEST 2018
+NIF Cliente = 2
+Descricao da Despesa = conta
+Natureza da Despesa = ELECTRICIDADE
+Valor da Despesa = 57.0
+
+----Despesa----
+
+NIF Emitente = 11
+Designacao do Emitente = teste
+Data da Despesa = Fri May 25 17:50:44 WEST 2018
+NIF Cliente = 2
+Descricao da Despesa = teste
+Natureza da Despesa = TRANSPORTES
+Valor da Despesa = 150.0
+
+----Despesa----
+
+NIF Emitente = 11
+Designacao do Emitente = uber
+Data da Despesa = Fri May 25 17:51:07 WEST 2018
+NIF Cliente = 3
+Descricao da Despesa = uber
+Natureza da Despesa = TRANSPORTES
+Valor da Despesa = 8.0
+
+----Despesa----
+
+NIF Emitente = 11
+Designacao do Emitente = livro
+Data da Despesa = Fri May 25 17:51:45 WEST 2018
+NIF Cliente = 4
+Descricao da Despesa = educativo
+Natureza da Despesa = EDUCAÇAO
+Valor da Despesa = 140.0
+
+----Despesa----
+
+NIF Emitente = 11
+Designacao do Emitente = gas
+Data da Despesa = Fri May 25 19:01:14 WEST 2018
+NIF Cliente = 5
+Descricao da Despesa = conta
+Natureza da Despesa = GAS
+Valor da Despesa = 40.0
+
+----Despesa----
+
+NIF Emitente = 33
+Designacao do Emitente = elec
+Data da Despesa = Fri May 25 20:21:16 WEST 2018
+NIF Cliente = 101
+Descricao da Despesa = conta
+Natureza da Despesa = ELECTRICIDADE
+Valor da Despesa = 102.0
+
+----Despesa----
+
+NIF Emitente = 33
+Designacao do Emitente = caro
+Data da Despesa = Fri May 25 20:21:32 WEST 2018
+NIF Cliente = 102
+Descricao da Despesa = caro
+Natureza da Despesa = REPARAÇAO_VEICULOS
+Valor da Despesa = 2341.0
+
+----Despesa----
+
+NIF Emitente = 33
+Designacao do Emitente = medicina
+Data da Despesa = Fri May 25 20:21:56 WEST 2018
+NIF Cliente = 10
+Descricao da Despesa = brufen
+Natureza da Despesa = SAUDE
+Valor da Despesa = 1203.0
+
+----Despesa----
+
+NIF Emitente = 33
+Designacao do Emitente = asl
+Data da Despesa = Fri May 25 20:22:16 WEST 2018
+NIF Cliente = 8
+Descricao da Despesa = desc
+Natureza da Despesa = GAS
+Valor da Despesa = 1231.0
+
+----Despesa----
+
+NIF Emitente = 22
+Designacao do Emitente = agua
+Data da Despesa = Fri May 25 20:57:16 WEST 2018
+NIF Cliente = 104
+Descricao da Despesa = conta
+Natureza da Despesa = AGUA
+Valor da Despesa = 145.0
+
+----Despesa----
+
+NIF Emitente = 33
+Designacao do Emitente = asd
+Data da Despesa = Fri May 25 21:09:03 WEST 2018
+NIF Cliente = 2
+Descricao da Despesa = asd
+Natureza da Despesa = EDUCAÇAO
+Valor da Despesa = 15.0
+FaturasData@474ee5d0
+======================>LOG<======================

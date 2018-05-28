@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ComparatorValorDespesa
+comment0.text=\r\n\ Classe\ comparator\ para\ despesas\r\n
+comment1.params=d1\ d2
+comment1.target=int\ compare(Despesa,\ Despesa)
+comment1.text=\r\n\ Compara\ dois\ valores\ dando\ duas\ despesas\ como\ argumentos.\r\n
+numComments=2

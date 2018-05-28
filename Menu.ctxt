@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\n\ Classe\ do\ menu,\ que\ vai\ receber\ as\ op\u00E7oes\ da\ faturaApp\n\n\n
+comment1.params=opcoes
+comment1.target=Menu(java.lang.String[])
+comment1.text=\n\ Construtor\ que\ cria\ o\ menu\ em\ si\n
+comment2.params=nome
+comment2.target=void\ executa(java.lang.String)
+comment2.text=\n\ Mostra\ o\ menu\ e\ permite\ que\ o\ utilizador\ escolha\ uma\ opcao\n\ \n
+comment3.params=nome
+comment3.target=void\ showMenu(java.lang.String)
+comment3.text=\ \n\ Metodo\ que\ imprime\ o\ menu\ e\ as\ op\u00E7oes\n
+comment4.params=
+comment4.target=int\ lerOpcao()
+comment4.text=\ \n\ Metodo\ que\ recebe\ uma\ op\u00E7ao\ do\ utilizador\ e\ verifica\ se\ esta\ se\ encontra\ dentro\ das\ op\u00E7oes\ validas\ \n
+comment5.params=
+comment5.target=int\ getOpcao()
+comment5.text=\n\ Get\ da\ opcao\ escolhida\ pelo\ utilizador\n
+numComments=6
